@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "tasmania-2018",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "Tasmania Spring 2018 trip to Hobart and Freycinet ",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
