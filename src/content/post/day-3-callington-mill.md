@@ -4,9 +4,10 @@ date: 2018-05-03T06:00:16+00:00
 description: Callington Mill is a Lincolnshire tower mill built in 1837 in Oatlands, Tasmania by John Vincent.
 trip: Tasmania 2018
 place: Australia
-location: Callington
+location: Callington Mill
 image: ../../assets/gallery/day-3-callington-mill/* Callington Mill closeup.jpeg
 gallery: day-3-callington-mill
+map: [-42.29886,147.37693,17]
 tags:
   - Callington Mill
 ---

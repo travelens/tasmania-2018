@@ -4,9 +4,10 @@ date: 2018-05-02T02:00:16+00:00
 description: Wineglass Bay is nestled in the iconic Hazards range and bordered with pink granite peaks.
 trip: Tasmania 2018
 place: Australia
-location: Freycinet
+location: Wineglass Bay
 image: ../../assets/gallery/day-2-freycinet-wineglass-bay/* Wineglass Bay.jpeg
 gallery: day-2-freycinet-wineglass-bay
+map: [-42.1681,148.3050,14]
 tags:
   - National Park
   - Wineglass Bay

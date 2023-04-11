@@ -8,6 +8,7 @@ place: Australia
 location: Ross
 image: ../../assets/gallery/day-3-ross/* Ross Bridge.jpeg
 gallery: day-3-ross
+map: [-42.0296,147.4954,14]
 tags:
   - Ross
   - historic

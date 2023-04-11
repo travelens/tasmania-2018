@@ -4,9 +4,10 @@ date: 2018-05-02T08:00:02+00:00
 description: Honeymoon Bay is situated right next to the Freycinet Lodge.
 trip: Tasmania 2018
 place: Australia
-location: Freycinet
+location: Honeymoon Bay
 image: ../../assets/gallery/day-2-freycinet-honeymoon-bay/* Rock, Honeymoon Bay.jpeg
 gallery: day-2-freycinet-honeymoon-bay
+map: [-42.1388,148.2968,16]
 tags:
   - Honeymoon Bay
   - National Park

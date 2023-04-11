@@ -8,6 +8,7 @@ place: Australia
 location: Hobart
 image: ../../assets/gallery/day-3-hobart/RACV Apartment Hotel.jpeg
 gallery: day-3-hobart
+map: [-42.8799,147.3686,12]
 tags:
   - city
   - night

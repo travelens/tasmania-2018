@@ -4,9 +4,10 @@ date: 2018-05-03T02:00:44+00:00
 description: Friendly Beaches is known for white sandy beaches overlooking a large saltwater lagoon, turquoise waters, granite rocks, and coastal heath.
 trip: Tasmania 2018
 place: Australia
-location: Freycinet
+location: Friendly Beaches
 image: ../../assets/gallery/day-3-freycinet-friendly-beaches/* Chris, Friendly Beaches.jpeg
 gallery: day-3-freycinet-friendly-beaches
+map: [-42.0084,148.2577,13]
 tags:
   - Friendly Beaches
   - National Park

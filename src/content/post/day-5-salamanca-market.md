@@ -7,6 +7,7 @@ place: Australia
 location: Hobart
 image: ../../assets/gallery/day-5-salamanca-market/1833.jpeg
 gallery: day-5-salamanca-market
+map: [-42.8866,147.3323,16]
 tags:
   - Salamanca Market
 ---

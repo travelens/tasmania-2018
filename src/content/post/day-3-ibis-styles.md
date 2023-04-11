@@ -4,9 +4,10 @@ date: 2018-05-03T08:00:22+00:00
 description: The ibis Styles Hobart hotel is a modern stylish budget hotel, centrally located and a short walk to Salamanca Markets and the Hobart waterfront.
 trip: Tasmania 2018
 place: Australia
-location: Hobart
+location: Ibis Styles
 image: ../../assets/gallery/day-3-ibis-styles/Reception.jpeg
 gallery: day-3-ibis-styles
+map: [-42.88599,147.32545,17]
 tags:
   - hotel
   - Ibis Styles

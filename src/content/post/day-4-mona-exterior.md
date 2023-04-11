@@ -4,9 +4,10 @@ date: 2018-05-04T00:00:58+00:00
 description: MONA, or the Museum of Old and New Art, has become one of the star attractions of Tasmania in recent years.
 trip: Tasmania 2018
 place: Australia
-location: Hobart
+location: MONA
 image: ../../assets/gallery/day-4-mona-exterior/* Faro Experiment.jpeg
 gallery: day-4-mona-exterior
+map: [-42.8127,147.2613,15]
 tags:
   - art
   - gallery

@@ -4,9 +4,10 @@ date: 2018-05-04T03:00:54+00:00
 description: The general collection in MONA tends to vary over time, but a few pieces really stood out for me.
 trip: Tasmania 2018
 place: Australia
-location: Hobart
+location: MONA
 image: ../../assets/gallery/day-4-mona-monanism/Madonna.jpeg
 gallery: day-4-mona-monanism
+map: [-42.8127,147.2613,15]
 tags:
   - art
   - gallery

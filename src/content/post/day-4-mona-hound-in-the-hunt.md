@@ -4,9 +4,10 @@ date: 2018-05-04T01:00:23+00:00
 description: This is an exhibition of various paintings and process for creating photo-realistic paintings (or copies of famous paintings).
 trip: Tasmania 2018
 place: Australia
-location: Hobart
+location: MONA
 image: ../../assets/gallery/day-4-mona-hound-in-the-hunt/* The Music Lesson overview.jpeg
 gallery: day-4-mona-hound-in-the-hunt
+map: [-42.8127,147.2613,15]
 tags:
   - art
   - gallery

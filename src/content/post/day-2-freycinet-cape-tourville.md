@@ -4,9 +4,10 @@ date: 2018-05-02T06:00:04+00:00
 description: The Cape Tourville is famous for it's lighthouse - an unmanned, automatic lighthouse built in 1971. The road was constructed through virgin eucalypt forest through Frecinet National Park.
 trip: Tasmania 2018
 place: Australia
-location: Freycinet
+location: Cape Tourville
 image: ../../assets/gallery/day-2-freycinet-cape-tourville/* Cape Tourville south.jpeg
 gallery: day-2-freycinet-cape-tourville
+map: [-42.12310,148.34373,17]
 tags:
   - Cape Tourville
   - National Park

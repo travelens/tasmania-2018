@@ -7,6 +7,7 @@ place: Australia
 location: Hobart
 image: ../../assets/gallery/day-4-hobart/Chris, Collins Court.jpeg
 gallery: day-4-hobart
+map: [-42.8799,147.3686,12]
 tags:
   - city
   - dinner

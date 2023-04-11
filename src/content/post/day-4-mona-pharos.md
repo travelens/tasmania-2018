@@ -4,9 +4,10 @@ date: 2018-05-04T04:00:57+00:00
 description: PHAROS is the new wing of MONA, and built to evoke the ancient lighthouse of Alexandria.
 trip: Tasmania 2018
 place: Australia
-location: Hobart
+location: MONA
 image: ../../assets/gallery/day-4-mona-pharos/Tunnel to Nowhere (1).jpeg
 gallery: day-4-mona-pharos
+map: [-42.8127,147.2613,15]
 tags:
   - art
   - gallery

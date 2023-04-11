@@ -7,6 +7,7 @@ place: Australia
 location: Hobart
 image: ../../assets/gallery/day-5-hobart/Franklin Square.jpeg
 gallery: day-5-hobart
+map: [-42.8799,147.3686,12]
 tags:
   - city
   - park

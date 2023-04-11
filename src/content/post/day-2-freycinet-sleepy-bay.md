@@ -4,9 +4,10 @@ date: 2018-05-02T04:00:24+00:00
 description: Sleepy Bay is a beautiful rocky bay with turquoise waters and orange lichen-encrusted rocks.
 trip: Tasmania 2018
 place: Australia
-location: Freycinet
+location: Sleepy Bay
 image: ../../assets/gallery/day-2-freycinet-sleepy-bay/* Chris, Sleepy Bay.jpeg
 gallery: day-2-freycinet-sleepy-bay
+map: [-42.1356,148.3254,14]
 tags:
   - National Park
   - Sleepy Bay
