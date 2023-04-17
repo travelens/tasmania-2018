@@ -7,7 +7,7 @@ import { SiteMetadata } from 'astro-travelens/config'
 // https://astro.build/config
 export default defineConfig({
   site: SiteMetadata.site,
-  base: 'Tasmania-2018',
+  base: 'tasmania-2018',
   experimental: {
     assets: true
   },
