@@ -1028,10 +1028,10 @@ astro-seo@^0.7.2:
   resolved "https://registry.yarnpkg.com/astro-seo/-/astro-seo-0.7.2.tgz#b6ef5d1590063631c03394fbeb501973a0460912"
   integrity sha512-YnSqj4E6vbF7wRk3gcxOPHBjenhfgaINEJlTsnu4sovAyfyGEdQksbioYKoZ+vERRDaYvEricfSzC6fc9lieww==
 
-astro-travelens@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/astro-travelens/-/astro-travelens-1.1.1.tgz#10d6f30a20d04d933a4d4af39a30f52ee595a1c4"
-  integrity sha512-prkp5KUymukt77Pi8YC2dMwWHiLGFG5vEVEClAg/LcTwNTgC66KPPrr4CYQvvzzgE4Qv2uxsXIzEKjds6m0lpQ==
+astro-travelens@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/astro-travelens/-/astro-travelens-1.1.2.tgz#544daf264a458c41383886402e23609ba854ff6d"
+  integrity sha512-u7qT3vrnIz8mVrO6MwMVVf78mUbodChIReufMHTQSleIS4GwsSTL8AdyFyJqVRozk9eJVGv0pwh/mk7/r7E7xQ==
   dependencies:
     astro "^2.3.0"
 
@@ -2857,7 +2857,7 @@ remark-smartypants@^2.0.0:
     retext-smartypants "^5.1.0"
     unist-util-visit "^4.1.0"
 
-resolve@^1.17.0, resolve@^1.22.1:
+resolve@^1.17.0:
   version "1.22.2"
   resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.22.2.tgz#0ed0943d4e301867955766c9f3e1ae6d01c6845f"
   integrity sha512-Sb+mjNHOULsBv818T40qSPeRiuWLyaGMa5ewydRLFimneixmVy2zdivRl+AF6jaYPC8ERxGDmFSiqui6SfPd+g==
@@ -2918,7 +2918,7 @@ reusify@^1.0.4:
   resolved "https://registry.yarnpkg.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
-rollup@^3.18.0:
+rollup@^3.20.2:
   version "3.20.6"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.20.6.tgz#53c0fd73e397269d2ce5f0ec12851457dd53cacd"
   integrity sha512-2yEB3nQXp/tBQDN0hJScJQheXdvU2wFhh6ld7K/aiZ1vYcak6N/BKjY1QrU6BvO2JWYS8bEs14FRaxXosxy2zw==
@@ -3423,14 +3423,13 @@ vfile@^5.0.0, vfile@^5.3.2:
     vfile-message "^3.0.0"
 
 vite@^4.2.1:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.2.2.tgz#014c30e5163844f6e96d7fe18fbb702236516dc6"
-  integrity sha512-PcNtT5HeDxb3QaSqFYkEum8f5sCVe0R3WK20qxgIvNBZPXU/Obxs/+ubBMeE7nLWeCo2LDzv+8hRYSlcaSehig==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.0.tgz#1fb9432e1980cf254e1ae1b7b8981fd262c6aa49"
+  integrity sha512-JTGFgDh3dVxeGBpuQX04Up+JZmuG6wu9414Ei36vQzaEruY/M4K0AgwtuB2b4HaBgB7R8l+LHxjB0jcgz4d2qQ==
   dependencies:
     esbuild "^0.17.5"
     postcss "^8.4.21"
-    resolve "^1.22.1"
-    rollup "^3.18.0"
+    rollup "^3.20.2"
   optionalDependencies:
     fsevents "~2.3.2"
 
