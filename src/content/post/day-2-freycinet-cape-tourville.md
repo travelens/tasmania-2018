@@ -7,10 +7,11 @@ place: Australia
 location: Cape Tourville
 image: ../../assets/gallery/day-2-freycinet-cape-tourville/* Cape Tourville south.jpeg
 gallery: day-2-freycinet-cape-tourville
-map: [-42.12310,148.34373,17]
+map: [-42.12310, 148.34373, 17]
 tags:
   - Cape Tourville
   - National Park
   - lighthouse
 ---
+
 After Sleepy Bay, we drove to Cape Tourville where there is a nice boardwalk around the lighthouse. From the boardwalk we can see The Nuggets, two tiny islands where birds nest (unfortunately, we did not see any birds &#8211; must be the wrong season).

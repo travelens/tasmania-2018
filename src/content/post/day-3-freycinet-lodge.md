@@ -7,7 +7,7 @@ place: Australia
 location: Freycinet Lodge
 image: ../../assets/gallery/day-3-freycinet-lodge/* Jetty view.jpeg
 gallery: day-3-freycinet-lodge
-map: [-42.13486,148.30145,17]
+map: [-42.13486, 148.30145, 17]
 tags:
   - Freycinet Lodge
   - hotel

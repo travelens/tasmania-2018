@@ -13,6 +13,7 @@ tags:
   - Hobart
   - MONA
 ---
+
 We returned back to Tasmania on 1-5 May 2018 and mainly visited the [Freycinet National Park][1] and Hobart. Although I had sprained my left patellar tendon a few weeks prior to the trip, I was able to walk around without too much difficulty by the time we arrived at Tasmania (thank goodness). The trip was really enjoyable and we were very lucky because a week later Hobart was deluged by wild weather and strong rains and Macquarie St (where we stayed) was flooded!
 
 | Day | Date            | Location                                                  | Hotel                   |
@@ -23,6 +24,6 @@ We returned back to Tasmania on 1-5 May 2018 and mainly visited the [Freycinet N
 | 4   | Friday 4 May    | Hobart                                                    | [Ibis Styles Hobart][3] |
 | 5   | Saturday 5 May  | Hobart to Sydney                                          | Home                    |
 
- [1]: http://www.parks.tas.gov.au/index.aspx?base=3363
- [2]: https://www.freycinetlodge.com.au
- [3]: https://www.accorhotels.com/gb/hotel-B040-ibis-styles-hobart/index.shtml
+[1]: http://www.parks.tas.gov.au/index.aspx?base=3363
+[2]: https://www.freycinetlodge.com.au
+[3]: https://www.accorhotels.com/gb/hotel-B040-ibis-styles-hobart/index.shtml

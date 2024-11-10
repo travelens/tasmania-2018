@@ -7,9 +7,10 @@ place: Australia
 location: Friendly Beaches
 image: ../../assets/gallery/day-3-freycinet-friendly-beaches/* Chris, Friendly Beaches.jpeg
 gallery: day-3-freycinet-friendly-beaches
-map: [-42.0084,148.2577,13]
+map: [-42.0084, 148.2577, 13]
 tags:
   - Friendly Beaches
   - National Park
 ---
+
 After leaving the Freycinet National Park Visitor Centre, we drove to Friendly Beaches. This involves taking a turn away from the main road, then going along a gravel road for quite some time. However, we were rewarded with spectacular white sands.

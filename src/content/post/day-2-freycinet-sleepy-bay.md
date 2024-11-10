@@ -7,9 +7,10 @@ place: Australia
 location: Sleepy Bay
 image: ../../assets/gallery/day-2-freycinet-sleepy-bay/* Chris, Sleepy Bay.jpeg
 gallery: day-2-freycinet-sleepy-bay
-map: [-42.1356,148.3254,14]
+map: [-42.1356, 148.3254, 14]
 tags:
   - National Park
   - Sleepy Bay
 ---
+
 After returning from the Wineglass Bay lookout, we drove out to Sleepy Bay &#8211; we have never visited this before and it sounds so romantic like something out of an Enid Blyton Famous Five book (no smugglers though). We descended down to Little Gravelly Beach which was a spectacular photographic opportunity.

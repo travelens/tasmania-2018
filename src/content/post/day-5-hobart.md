@@ -7,9 +7,10 @@ place: Australia
 location: Hobart
 image: ../../assets/gallery/day-5-hobart/Franklin Square.jpeg
 gallery: day-5-hobart
-map: [-42.8799,147.3686,12]
+map: [-42.8799, 147.3686, 12]
 tags:
   - city
   - park
 ---
+
 Today is our last day in Tasmania as we were booked to fly back to Sydney at 12:45. I wandered down to St. David&#8217;s Park, then explored Salamanca Market, then wandered though Parliament Square and Franklin Square before heading back to the hotel to check out. Luckily it started drizzling just as soon as I arrived back at the hotel so I was lucky. With sadness, we bade Hobart and Tasmania and fond farewell and another fantastic trip to the Apple Island.

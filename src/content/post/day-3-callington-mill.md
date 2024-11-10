@@ -7,8 +7,9 @@ place: Australia
 location: Callington Mill
 image: ../../assets/gallery/day-3-callington-mill/* Callington Mill closeup.jpeg
 gallery: day-3-callington-mill
-map: [-42.29886,147.37693,17]
+map: [-42.29886, 147.37693, 17]
 tags:
   - Callington Mill
 ---
+
 Another town we stopped by was Callington, which is famous for the Callington Mill.&nbsp;Callington Mill is a Lincolnshire tower mill built in 1837 in Oatlands, Tasmania by John Vincent. It has recently been restored so that it is now in full working order and is the only operating mill of its type in the Southern Hemisphere. It is the third oldest windmill in Australia. The mill site comprises the windmill, a granary, stable, miller’s cottage and mill owner’s house.
